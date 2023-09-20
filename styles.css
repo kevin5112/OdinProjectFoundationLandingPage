@@ -226,3 +226,13 @@ a {
     cursor: pointer;
     margin: 10px 0px;
 }
+
+/* footer */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 40px;
+}
